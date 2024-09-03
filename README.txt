@@ -1,14 +1,21 @@
-//// welcom at image processing api app ////////
+# Image Processing API
 
-scripts needed :
-- npm run test for testing
-- npm run build for building project from ts->js at build folder
-- npm run start to run ther server
+Welcome to the Image Processing API application! 🎨
 
-how to start:
-- once you have started the server ther is a frontend will present. 
-  So you can choose the desired photo and detrmin desired width and
-  height.
+## Scripts
 
-* app will accept just .jpg extension files only
-* app will accept images thats in the images folder of the project only 	   
+- `npm run test`: Run tests for the application 🧪
+- `npm run build`: Build the project from TypeScript to JavaScript in the `build` folder 🔨
+- `npm run start`: Start the server 🚀
+
+## Getting Started
+
+To begin using the Image Processing API, follow these steps:
+
+1. **Start the Server**: Once the server is up and running, a frontend interface will be available. 📋
+2. **Upload an Image**: Select the desired photo and specify the desired width and height. 📷
+3. **Image Constraints**:
+   - The application accepts only `.jpg` files 📂
+   - The images must be located in the `images` folder within the project directory 🗂️
+
+Feel free to reach out if you have any questions or need further assistance!
