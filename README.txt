@@ -18,4 +18,4 @@ To begin using the Image Processing API, follow these steps:
    - The application accepts only `.jpg` files 📂
    - The images must be located in the `images` folder within the project directory 🗂️
 
-Feel free to reach out if you have any questions or need further assistance!
+
